@@ -6,7 +6,7 @@
 
 entirely built on the blockchain:
 ```
-we set a new standard for deventralized asset management
+we set a new standard for decentralized asset management
 ```
 
 to reach out to us write to:
